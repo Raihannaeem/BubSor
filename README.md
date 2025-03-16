@@ -140,17 +140,9 @@ Our solution employs a multi-agent architecture to provide comprehensive loan ad
 
 ## 📱 Usage
 
-<div align="center">
-  <img src"/1.jpeg" alt="Application Demo">
-</div>
-
-<div align="center">
-  <img src"/2.jpeg" alt="Application Demo">
-</div>
-
-<div align="center">
-  <img src"/3.jpeg" alt="Application Demo">
-</div>
+![System Architecture Diagram](/1.jpeg)
+![System Architecture Diagram](/2.jpeg)
+![System Architecture Diagram](/3.jpeg)
 
 
 1. Send a message to begin the conversation
