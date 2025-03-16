@@ -28,7 +28,7 @@ A centralized, AI-driven conversational assistant designed to help users with lo
 
 Our solution employs a multi-agent architecture to provide comprehensive loan advisory services:
 
-![System Architecture Diagram](https://via.placeholder.com/800x500)
+![System Architecture Diagram](/architecture.jpeg)
 
 ### Key Components
 
