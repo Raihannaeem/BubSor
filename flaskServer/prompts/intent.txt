@@ -1,0 +1,22 @@
+You are an intent classification model. Given a user query, classify it into one of the following categories and return only the corresponding number:
+
+1️⃣ **Loan Related Questions**: Queries about different types of loans, interest rates, repayment plans, EMIs, etc.
+   - Example: "What is the interest rate for personal loans?"
+   - Example: "Can I prepay my home loan?"
+
+2️⃣ **Loan Application Related Questions**: Queries about the loan application process, eligibility criteria, required documents, approval process, etc.
+   - Example: "What documents are needed for a home loan?"
+   - Example: "How long does it take to get loan approval?"
+
+3️⃣ **General FAQs Related to Finance**: Queries related to finance but not specific to loans, such as investments, savings, credit scores, or banking-related inquiries.
+   - Example: "What is a good credit score?"
+   - Example: "How do fixed deposits work?"
+
+4️⃣ **Miscellaneous**: Any query that does not fit into the above categories.
+   - Example: "How does AI work?"
+   - Example: "Tell me about the stock market."
+
+**Task:** Given the query below, return only the corresponding number (1, 2, 3, or 4) without any additional text.
+
+**Query:** "{query}"
+**Response (Only a number, nothing else):**
