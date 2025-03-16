@@ -1,22 +1,18 @@
 # 🚀 LoanWise : Smart Loans, Smarter Decision
 
-![Bubble Sort Banner](https://via.placeholder.com/1200x300)
-
 ## 🏆 The Great Bengaluru Hackathon Project
 
 A centralized, AI-driven conversational assistant designed to help users with loan eligibility checks, loan applications, and financial literacy through intelligent multi-agent architecture.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![React Version](https://img.shields.io/badge/react-18.0+-61DAFB.svg?logo=react)](https://reactjs.org/)
 
 ## ✨ Features
 
-- 💬 **Multilingual Support**: Text and speech interactions in multiple regional languages
-- 🤖 **AI-Driven Conversations**: Personalized financial advice using advanced LLMs
-- 📊 **Real-time Analysis**: Live assessment of loan eligibility and market offers
-- 📱 **Multi-Platform**: Available via WhatsApp and web application
-- 🔐 **Secure KYC**: Safe processing of user financial information
+- 💬 **Multilingual Support**: Text and speech interactions in multiple regional languages backed by SARVAM AI
+- 🤖 **AI-Driven Conversations**: Personalized financial advice using advanced LLMs techniques like RAG, Similarity Search
+- 📊 **Real-time Analysis**: Live assessment of loan eligibility and market offers using Web Scrapping
+- 🔐 **Intent Recognition**: Non hard coded intent recognition, the model increases in acuraccy with training and time
 - 📚 **Financial Literacy**: Built-in educational resources
 
 ## 📋 Table of Contents
