@@ -86,10 +86,9 @@ Our solution employs a multi-agent architecture to provide comprehensive loan ad
 ### Prerequisites
 
 - Python 3.8+
-- Node.js 14+
-- npm/yarn
-- MongoDB
-- WhatsApp Business API access (for WhatsApp integration)
+- React.js
+- flask-python
+- Neo4js
 
 ### Backend Setup
 
@@ -142,18 +141,19 @@ Our solution employs a multi-agent architecture to provide comprehensive loan ad
 ## 📱 Usage
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x450" alt="Application Demo">
+  <img src"1.jpeg" alt="Application Demo">
 </div>
 
-### WhatsApp Integration
+<div align="center">
+  <img src"2.jpeg" alt="Application Demo">
+</div>
 
-1. Scan the QR code or click the link below:
-   
-   ![WhatsApp QR Code](https://via.placeholder.com/200x200)
-   
-   [Start WhatsApp Chat](https://wa.me/your-whatsapp-business-number)
+<div align="center">
+  <img src"3.jpeg" alt="Application Demo">
+</div>
 
-2. Send a message to begin the conversation
+
+1. Send a message to begin the conversation
 
 ### Web Application
 
